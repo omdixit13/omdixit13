@@ -1,90 +1,77 @@
-<!-- ANIMATED TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2400&pause=800&color=00E0FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Om+%F0%9F%91%8B;Frontend+Developer+in+the+Making;JavaScript+%7C+UI+Logic+%7C+Clean+Code;Building+Daily.+Shipping+Weekly." />
-</p>
+# Om Dixit — Frontend Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header"/>
-</p>
+**Frontend Engineer focused on building clean, accessible, and performant web applications.**
 
-<p align="center">
-<strong>Frontend Intern • CS Student • Vanilla JS Learner</strong><br/>
-Code. Break. Fix. Repeat.
-</p>
+I learn by building projects that solve real problems, improve user experience, and demonstrate core JavaScript, UI, and web fundamentals.
 
 ---
 
-## 👊 About Me
+## 📍 What I’m Working On
 
-I’m a **Computer Science student** focused on **frontend engineering** and strong **fundamentals**.
-
-I learn by shipping **small, clean, reusable** things — consistently.
-
-**Rules I follow:**
-- Understand > Memorize  
-- Simple > Clever  
-- Consistency > Motivation  
-
-This GitHub is my **learning log + growing portfolio**.
+- Building interactive UI components and tools using vanilla JavaScript  
+- Deepening understanding of modern frontend architecture  
+- Preparing for industry roles in frontend engineering
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
----
-
-## 🎯 Current Focus
-
-- Frontend Internship Tasks  
-- JavaScript (DOM, events, logic)  
-- UI Components (cards, navbars, modals)  
-- Daily commits & clean GitHub history  
+**Core Tools:**
+- HTML5 / CSS3 – Responsive, semantic markup
+- JavaScript (ES6+) – DOM, events, modules
+- React (in practice) *(add if you learn it)*
+- Git + GitHub workflows
+- VS Code
 
 ---
 
-## 📦 Featured Repositories
+## 📂 Featured Projects
 
-- **frontend-quick-wins** → Fast JavaScript UI & logic drills  
-- **frontend-ui-components** → Reusable UI components  
-- **frontend-foundations** → Frontend from absolute scratch  
-- **ai-mini-projects** → Logic & AI mini builds  
+### **Frontend Quick Wins**
+A collection of small real-world UI interactions and JavaScript logic examples.  
+👉 https://github.com/omdixit13/frontend-quick-wins
 
----
+### **UI Components Repo**
+Reusable UI components like navigation, modals, cards, and input patterns.  
+👉 https://github.com/omdixit13/frontend-ui-components
 
-## 📊 GitHub Stats
+### **Frontend Foundations**
+Step-by-step exploration of frontend basics from scratch.  
+👉 https://github.com/omdixit13/frontend-foundations
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omdixit13&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omdixit13&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omdixit13/omdixit13/output/github-contribution-grid-snake.svg" />
-</p>
+### **AI Mini Projects**
+Logic-oriented mini projects linking AI concepts with frontend logic.  
+👉 https://github.com/omdixit13/ai-mini-projects
 
 ---
 
-## 🧠 Mindset
+## 🛠 Daily Workflow
 
-> Consistency > Motivation  
-> Clarity > Cleverness  
-> Progress > Perfection  
+I track progress in small commits, focusing on:
+
+- clarity of implementation  
+- maintainable structure  
+- readable documentation  
+- consistent updates
+
+This profile reflects **my day-to-day learning and building**.
+
+---
+
+## 📫 Connect with me
+
+- Portfolio: https://yourportfolio.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your.email@example.com
+
+---
+
+## 📊 GitHub Metrics
 
 <p align="center">
-Built with discipline, not shortcuts.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omdixit13&show_icons=true&theme=tokyonight" />
 </p>
