@@ -1,4 +1,4 @@
-<!-- HARDCORE TYPING HEADER -->
+<!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2400&pause=800&color=00E0FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Om+%F0%9F%91%8B;Frontend+Developer+in+the+Making;JavaScript+%7C+UI+Logic+%7C+Clean+Code;Building+Daily.+Shipping+Weekly." />
 </p>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<strong>Frontend Intern • CS Student • Vanilla JS Enjoyer</strong><br/>
+<strong>Frontend Intern • CS Student • Vanilla JS Learner</strong><br/>
 Code. Break. Fix. Repeat.
 </p>
 
@@ -58,11 +58,11 @@ This GitHub is my **learning log + growing portfolio**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omdixit13&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omdixit13&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omdixit13&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=omdixit13&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ This GitHub is my **learning log + growing portfolio**.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/omdixit13/omdixit13/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/omdixit13/omdixit13/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -88,4 +88,3 @@ Built with discipline, not shortcuts.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer"/>
 </p>
-
