@@ -1,58 +1,91 @@
-# Om Dixit
+<!-- HARDCORE TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2400&pause=800&color=00E0FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Om+%F0%9F%91%8B;Frontend+Developer+in+the+Making;JavaScript+%7C+UI+Logic+%7C+Clean+Code;Building+Daily.+Shipping+Weekly." />
+</p>
 
-Computer Science undergraduate with a strong interest in building clean, logical, and
-real-world oriented software solutions. Focused on fundamentals, consistency, and
-practical problem-solving.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header"/>
+</p>
 
----
-
-## 🎓 Background
-- B.Tech in Computer Science & Engineering (Undergraduate)
-- Actively developing skills in Python programming, frontend development, and data analysis
-- Experience balancing technical work with leadership and creative responsibilities
-
----
-
-## 💻 Technical Focus
-- **Programming:** Python (logic building, data handling), Java (basic), JavaScript (basic)
-- **Web:** HTML5, CSS3, responsive layouts
-- **Data & Analysis:** Pandas, Matplotlib (foundational analytics & visualization)
-- **Tools:** Git, VS Code, Canva, Adobe Lightroom
+<p align="center">
+<strong>Frontend Intern • CS Student • Vanilla JS Enjoyer</strong><br/>
+Code. Break. Fix. Repeat.
+</p>
 
 ---
 
-## 🧩 What Sets Me Apart
-- Strong emphasis on **clarity, readability, and fundamentals**
-- Builds projects with real-world context instead of tutorial copying
-- Comfortable working across **technical, creative, and leadership roles**
-- Values consistency and long-term skill growth over shortcuts
+## 👊 About Me
+
+I’m a **Computer Science student** focused on **frontend engineering** and strong **fundamentals**.
+
+I learn by shipping **small, clean, reusable** things — consistently.
+
+**Rules I follow:**
+- Understand > Memorize  
+- Simple > Clever  
+- Consistency > Motivation  
+
+This GitHub is my **learning log + growing portfolio**.
 
 ---
 
-## 📂 Selected Work
-- **python-basics**  
-  Core Python concepts implemented through structured practice programs.
+## 🧰 Tech Stack
 
-- **python-mini-projects**  
-  Logic-driven Python projects simulating real-world scenarios.
-
-- **python-realworld-tools**  
-  Small Python utilities designed to solve practical problems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Currently Improving
-- Writing cleaner and more maintainable Python code
-- Strengthening problem-solving through mini projects
-- Expanding frontend development skills
-- Exploring applied data analytics
+## 🎯 Current Focus
+
+- Frontend Internship Tasks  
+- JavaScript (DOM, events, logic)  
+- UI Components (cards, navbars, modals)  
+- Daily commits & clean GitHub history  
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/omdixit13
-- Email: (available on request)
+## 📦 Featured Repositories
+
+- **frontend-quick-wins** → Fast JavaScript UI & logic drills  
+- **frontend-ui-components** → Reusable UI components  
+- **frontend-foundations** → Frontend from absolute scratch  
+- **ai-mini-projects** → Logic & AI mini builds  
 
 ---
 
-*Focused on learning, building, and steadily growing as a software engineer.*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omdixit13&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omdixit13&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/omdixit13/omdixit13/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Mindset
+
+> Consistency > Motivation  
+> Clarity > Cleverness  
+> Progress > Perfection  
+
+<p align="center">
+Built with discipline, not shortcuts.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer"/>
+</p>
+
